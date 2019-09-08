@@ -1,0 +1,13 @@
+﻿Gas,Slongsong Gas,Tali Gas,Oli,Hasil
+Normal,Bagus,Bagus,<1bulan,Tidak ada yang diganti
+Normal,Bagus,Bagus,>1bulan,Oli diganti
+Normal,Bagus,Putus,>1bulan,Tali gas diganti kemudian oli
+Normal ,Berkarat,Putus,>1bulan,Slongsong gas diganti kemudian tali gas kemudian oli
+Berat,Berkarat,Putus,>1bulan,Semua komponen diganti berurutan
+Normal,Bagus,Putus,<1bulan,Tali gas diganti
+Normal,Berkarat,Bagus,<1bulan,Slongsong gas diganti
+Berat,Bagus,Bagus,<1bulan,Butuh pengecekan lebih lanjut
+Berat,Berkarat,Putus,<1bulan,Slongsong gas diganti kemudian tali gas kemudian cek lebih lanjut
+Normal,Bagus,Bagus,>1bulan,Tidak ada yang diganti
+Normal ,Berkarat,Putus,<1bulan,Tidak ada yang diganti
+Berat,Berkarat,Bagus,<1bulan,Tidak ada yang diganti

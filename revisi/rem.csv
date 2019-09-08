@@ -1,0 +1,11 @@
+﻿Sil Master,Ring Piston,Kampas Rem,Hasil
+Bagus,Bagus,Tebal,Tidak ada yang diganti
+Bocor,Bagus,Tebal,Sil master diganti
+Bocor,Rusak,Tebal,Ganti sil master kemudian ring piston
+Bocor,Bagus,Tipis,Ganti sil master kemudian kampas rem
+Bagus,Bagus,Tipis,Ganti kampas rem
+Bagus,Rusak,Tipis,Ganti ring piston kemudian kampas rem
+Bagus,Bagus,Tipis,Tidak ada yang diganti
+Bocor,Rusak,Tipis,Ganti sil master kemudian ring piston kemudian kampas rem
+Bagus,Rusak ,Tebal,Tidak ada yang diganti
+Bagus,Rusak,Tipis,Ganti kampas rem

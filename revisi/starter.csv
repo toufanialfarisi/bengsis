@@ -1,0 +1,11 @@
+﻿Voltase,Arus,Umur,Switch,Arang,Lahar,Dinamo,Hasil
+12,3,<1tahun,Bagus,Tebal,Bagus,Bagus,Tidak ada yang diganti
+12,3,<1tahun,Bagus,Tebal,Bagus,Rusak,Ganti dinamo starter
+12,3,<1tahun,Bagus,Tebal,Meleleh,Bagus,Ganti lahar dinamo
+12,3,<1tahun,Bagus,Tipis,Bagus,Bagus,Ganti arang starter
+12,3,<1tahun,Rusak,Tebal,Bagus,Bagus,Ganti switch starter
+12,3,>1tahun,Bagus,Tebal,Bagus,Bagus,Ganti aki
+12,<3,<1tahun,Bagus,Tebal,Bagus,Bagus,Ganti aki
+<12,3,<1tahun,Bagus,Tebal,Bagus,Bagus,Ganti aki
+12,3,>1tahun,Bagus,Tebal,Bagus,Bagus,Tidak ada yang diganti
+12,3,<1tahun,Rusak,Tipis,Bagus,Bagus,Ganti switch starter kemudian arang starter
