@@ -1,11 +1,22 @@
-﻿Sil Master,Ring Piston,Kampas Rem,Hasil
-Bagus,Bagus,Tebal,Tidak ada yang diganti
-Bocor,Bagus,Tebal,Sil master diganti
-Bocor,Rusak,Tebal,Ganti sil master kemudian ring piston
-Bocor,Bagus,Tipis,Ganti sil master kemudian kampas rem
-Bagus,Bagus,Tipis,Ganti kampas rem
-Bagus,Rusak,Tipis,Ganti ring piston kemudian kampas rem
-Bagus,Bagus,Tipis,Tidak ada yang diganti
-Bocor,Rusak,Tipis,Ganti sil master kemudian ring piston kemudian kampas rem
-Bagus,Rusak ,Tebal,Tidak ada yang diganti
-Bagus,Rusak,Tipis,Ganti kampas rem
+﻿Sil Master,Tingkat kecakraman,Ring Piston,Kampas Rem (cm),Minyak Rem,Handel Rem,Hasil
+baik,sangat cakram,bersih,0.1,Banyak,Kencang,Kondisi baik
+baik,terkadang macet,bersih,0.1,Banyak,Kencang,Kondisi baik
+baik,terkadang macet,agak kotor,0.1,Banyak,Kencang,Kondisi rusak
+baik,terkadang macet,agak kotor,0.2,Banyak,Kencang,Kondisi rusak
+baik,terkadang macet,agak kotor,0.2,sedang,Kencang,Kondisi rusak
+baik,terkadang macet,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
+bocor,sangat cakram,bersih,0.1,Banyak,Kencang,Kondisi rusak
+bocor,terkadang macet,bersih,0.1,Banyak,Kencang,Kondisi rusak
+bocor,terkadang macet,agak kotor,0.1,Banyak,Kencang,Kondisi rusak
+bocor,terkadang macet,agak kotor,0.2,Banyak,Kencang,Kondisi rusak
+bocor,terkadang macet,agak kotor,0.2,sedang,Kencang,Kondisi rusak
+bocor,terkadang macet,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
+baik,longgar,sangat kotor,0.3,sedikit,tidak responsif,Kondisi rusak
+baik,longgar,agak kotor,0.1,Banyak,Kencang,Kondisi baik
+baik,longgar,agak kotor,0.2,Banyak,Kencang,Kondisi baik
+baik,longgar,agak kotor,0.2,sedang,Kencang,Kondisi baik
+baik,longgar,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
+bocor,terkadang macet,sangat kotor,0.3,sedikit,tidak responsif,Kondisi rusak
+bocor,terkadang macet,sangat kotor,0.3,Banyak,tidak kencang,Kondisi rusak
+bocor,longgar,sangat kotor,0.3,sedang,tidak responsif,Kondisi rusak
+bocor,longgar,sangat kotor,0.3,sedikit,tidak kencang,Kondisi rusak

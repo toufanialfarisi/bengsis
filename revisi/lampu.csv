@@ -1,11 +1,22 @@
 ﻿Bohlam,Timah Soket,Kabel Lampu,Saklar Lampu,Pengapian,Regulator,Hasil
-Bagus,Bagus,Bagus,Bagus,Bagus,Bagus,Tidak ada yang diganti
-Putus,Bagus,Bagus,Bagus,Bagus,Bagus,Ganti bohlam
-Bagus,Meleleh,Bagus,Bagus,Bagus,Bagus,Ganti timah soket
-Bagus,Bagus,Putus,Bagus,Bagus,Bagus,Ganti kabel lampu
-Bagus,Bagus,Bagus,Rusak,Bagus,Bagus,Ganti saklar lampu
-Bagus,Bagus,Bagus,Bagus,Rusak,Bagus,Ganti pengapian
-Bagus,Bagus,Bagus,Bagus,Bagus,Rusak,Ganti regulator
-Putus,Meleleh,Bagus,Bagus,Bagus,Bagus,Ganti bohlam -> timah soket
-Putus,Meleleh,Putus,Bagus,Bagus,Bagus,Ganti bohlam -> timah soket -> kabel
-Putus,Meleleh,Putus,Rusak,Bagus,Bagus,Ganti bohlam -> timah soket -> kabel->saklar
+Bagus,Bagus,Bagus,Bagus,Bagus,Bagus,Kondisi baik
+Putus,Bagus,Bagus,Bagus,Bagus,Bagus,Kondisi rusak
+Bagus,Meleleh,Bagus,Bagus,Bagus,Bagus,Kondisi rusak
+Bagus,Bagus,Putus,Bagus,Bagus,Bagus,Kondisi rusak
+Bagus,Bagus,Bagus,Rusak,Bagus,Bagus,Kondisi rusak
+Bagus,Bagus,Bagus,Bagus,Rusak,Bagus,Kondisi rusak
+Bagus,Bagus,Bagus,Bagus,Bagus,Rusak,Kondisi rusak
+Putus,Meleleh,Bagus,Bagus,Bagus,Bagus,Kondisi rusak
+Putus,Meleleh,Putus,Bagus,Bagus,Bagus,Kondisi rusak
+Putus,Meleleh,Putus,Rusak,Bagus,Bagus,Kondisi rusak
+Putus,Meleleh,Putus,Rusak,Rusak,Bagus,Kondisi rusak
+Putus,Meleleh,Putus,Rusak,Rusak,Rusak,Kondisi rusak
+Bagus,Meleleh,Putus,Rusak,Rusak,Rusak,Kondisi rusak
+Bagus,Bagus,Putus,Rusak,Rusak,Rusak,Kondisi rusak
+Bagus,Bagus,Bagus,Rusak,Rusak,Rusak,Kondisi rusak
+Bagus,Bagus,Bagus,Bagus,Rusak,Rusak,Kondisi rusak
+Bagus,Belum meleleh,Bagus,Bagus,Bagus,Bagus,Kondisi baik
+Bagus,Belum meleleh ,Putus,Bagus,Bagus,Bagus,Kondisi rusak
+Bagus,Belum meleleh,Putus ,Rusak,Bagus,Bagus,Kondisi rusak
+Bagus,Belum meleleh,Putus,Rusak,Rusak,Bagus,Kondisi rusak
+Bagus,Belum meleleh,Putus,Rusak,Rusak,Rusak,Kondisi rusak
