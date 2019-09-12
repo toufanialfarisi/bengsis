@@ -1,0 +1,51 @@
+﻿Gas,Slongsong Gas,Tali Gas,Oli (Bulan),Hasil
+Normal,Bagus,Bagus,1,Kondisi baik
+Normal,Bagus,Bagus,2,Kondisi rusak
+Normal,Bagus,Putus,1,Kondisi rusak
+Normal ,Sangat berkarat,Putus,1,Kondisi rusak
+Berat,Sangat berkarat,Putus,1,Kondisi rusak
+Normal,Bagus,Putus,2,Kondisi rusak
+Normal,Sangat berkarat,Bagus,1,Kondisi rusak
+Berat,Bagus,Bagus,2,Kondisi rusak
+Berat,Sangat berkarat,Putus,3,Kondisi rusak
+Normal,Bagus,Bagus,1,Kondisi rusak
+Normal ,Sangat berkarat,Putus,2,Kondisi rusak
+Berat,Sangat berkarat,Bagus,3,Kondisi rusak
+Sedang,Cukup berkarat,Bagus,1,Kondisi baik
+Sedang,Sangat berkarat,Putus,1,Kondisi rusak
+Sedang,Sangat berkarat,Putus,2,Kondisi rusak
+Berat,Cukup berkarat,Bagus,3,Kondisi rusak
+Normal,Cukup berkarat,Bagus,1,Kondisi rusak
+Normal,Sangat berkarat,Bagus,2,Kondisi rusak
+Normal,Sangat berkarat,Putus,1,Kondisi rusak
+Normal,Cukup berkarat,Bagus,2,Kondisi baik
+Berat,Cukup berkarat,Putus,3,Kondisi rusak
+Sedang,Cukup berkarat,Bagus,0.5,Kondisi baik
+Normal,Cukup berkarat,Bagus,0.75,Kondisi baik
+Berat,Bagus,Bagus,0.75,Kondisi baik
+Normal,Cukup berkarat,Bagus,0.5,Kondisi baik
+Normal,Bagus,Bagus,1.5,Kondisi baik
+Sedang,Bagus,Bagus,0.25,Kondisi baik
+Sedang,Bagus,Bagus,1.25,Kondisi baik
+Normal,Cukup berkarat,Putus,1.75,Kondisi rusak
+Normal,Cukup berkarat,Bagus,1.5,Kondisi baik
+Sedang,Cukup berkarat,Bagus,0.75,Kondisi baik
+Normal,Bagus,Bagus,0.75,Kondisi baik
+Sedang,Cukup berkarat,Bagus,0.25,Kondisi baik
+Berat,Bagus,Bagus,0.75,Kondisi baik
+Sedang,Bagus,Putus,0.25,Kondisi rusak
+Berat,Cukup berkarat,Bagus,1,Kondisi baik
+Berat,Cukup berkarat,Putus,0.5,Kondisi rusak
+Sedang,Bagus,Bagus,1.25,Kondisi baik
+Sedang,Bagus,Bagus,1.75,Kondisi baik
+Sedang,Cukup berkarat,Bagus,2,Kondisi baik
+Berat,Bagus,Bagus,1.5,Kondisi baik
+Berat,Cukup berkarat,Bagus,1.5,Kondisi baik
+Normal,Cukup berkarat,Putus,1.5,Kondisi rusak
+Berat,Bagus,Bagus,0.5,Kondisi baik
+Berat,Cukup berkarat,Bagus,0.5,Kondisi baik
+Berat,Sangat berkarat,Bagus,0.5,Kondisi rusak
+Sedang,Sangat berkarat,Bagus,0.5,Kondisi baik
+Sedang,Cukup berkarat,Bagus,2.75,Kondisi rusak
+Sedang,Sangat berkarat,Bagus,2.75,Kondisi rusak
+Berat,Cukup berkarat,Bagus,0.25,Kondisi baik

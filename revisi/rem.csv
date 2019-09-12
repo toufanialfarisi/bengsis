@@ -1,22 +1,51 @@
-﻿Sil Master,Tingkat kecakraman,Ring Piston,Kampas Rem (cm),Minyak Rem,Handel Rem,Hasil
-baik,sangat cakram,bersih,0.1,Banyak,Kencang,Kondisi baik
-baik,terkadang macet,bersih,0.1,Banyak,Kencang,Kondisi baik
-baik,terkadang macet,agak kotor,0.1,Banyak,Kencang,Kondisi rusak
-baik,terkadang macet,agak kotor,0.2,Banyak,Kencang,Kondisi rusak
-baik,terkadang macet,agak kotor,0.2,sedang,Kencang,Kondisi rusak
-baik,terkadang macet,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
-bocor,sangat cakram,bersih,0.1,Banyak,Kencang,Kondisi rusak
-bocor,terkadang macet,bersih,0.1,Banyak,Kencang,Kondisi rusak
-bocor,terkadang macet,agak kotor,0.1,Banyak,Kencang,Kondisi rusak
-bocor,terkadang macet,agak kotor,0.2,Banyak,Kencang,Kondisi rusak
-bocor,terkadang macet,agak kotor,0.2,sedang,Kencang,Kondisi rusak
-bocor,terkadang macet,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
-baik,longgar,sangat kotor,0.3,sedikit,tidak responsif,Kondisi rusak
-baik,longgar,agak kotor,0.1,Banyak,Kencang,Kondisi baik
-baik,longgar,agak kotor,0.2,Banyak,Kencang,Kondisi baik
-baik,longgar,agak kotor,0.2,sedang,Kencang,Kondisi baik
-baik,longgar,agak kotor,0.2,sedang,tidak kencang,Kondisi rusak
-bocor,terkadang macet,sangat kotor,0.3,sedikit,tidak responsif,Kondisi rusak
-bocor,terkadang macet,sangat kotor,0.3,Banyak,tidak kencang,Kondisi rusak
-bocor,longgar,sangat kotor,0.3,sedang,tidak responsif,Kondisi rusak
-bocor,longgar,sangat kotor,0.3,sedikit,tidak kencang,Kondisi rusak
+﻿Sil Master,Ring Piston,Kampas Rem (cm),Minyak Rem,Tali Rem,Hasil
+Baik,Bersih,0.1,Banyak,Bagus,Kondisi baik
+Baik,Bersih,0.1,Banyak,Bagus,Kondisi baik
+Baik,Agak kotor,0.1,Banyak,Putus,Kondisi rusak
+Baik,Agak kotor,0.2,Banyak,Putus,Kondisi rusak
+Baik,Agak kotor,0.2,Sedang,Putus,Kondisi rusak
+Baik,Agak kotor,0.2,Sedang,Putus,Kondisi rusak
+Bocor,Bersih,0.1,Banyak,Bagus,Kondisi rusak
+Bocor,Bersih,0.1,Banyak,Bagus,Kondisi rusak
+Bocor,Agak kotor,0.1,Banyak,Bagus,Kondisi rusak
+Bocor,Agak kotor,0.2,Banyak,Putus,Kondisi rusak
+Bocor,Agak kotor,0.2,Sedang,Putus,Kondisi rusak
+Bocor,Agak kotor,0.2,Sedang,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Sedikit,Bagus,Kondisi rusak
+Baik,Agak kotor,0.1,Banyak,Bagus,Kondisi baik
+Baik,Agak kotor,0.2,Banyak,Putus,Kondisi baik
+Baik,Agak kotor,0.2,Sedang,Putus,Kondisi baik
+Baik,Agak kotor,0.2,Sedang,Bagus,Kondisi rusak
+Bocor,Sangat kotor,0.3,Sedikit,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Banyak,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Sedang,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Sedang,Bagus,Kondisi rusak
+Baik,Bersih,0.3,Sedikit,Bagus,Kondisi baik
+Baik,Bersih,0.3,Sedikit,Bagus,Kondisi baik
+Baik,Agak kotor,0.3,Sedikit,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.3,Sedang,Putus,Kondisi rusak
+Baik,Agak kotor,0.3,Sedikit,Bagus,Kondisi baik
+Baik,Agak kotor,0.2,Banyak,Bagus,Kondisi baik
+Baik,Agak kotor,0.3,Banyak,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.3,Sedang,Bagus,Kondisi rusak
+Baik,Sangat kotor,0.3,Banyak,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.1,Sedikit,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Sedikit,Bagus,Kondisi baik
+Baik,Sangat kotor,0.3,Banyak,Bagus,Kondisi baik
+Baik,Sangat kotor,0.3,Sedang,Bagus,Kondisi baik
+Baik,Agak kotor,0.3,Sedikit,Putus,Kondisi rusak
+Bocor,Sangat kotor,0.2,Sedang,Bagus,Kondisi rusak
+Baik,Agak kotor,0.1,Sedikit,Bagus,Kondisi rusak
+Baik,Sangat kotor,0.3,Banyak,Bagus,Kondisi baik
+Baik,Sangat kotor,0.2,Banyak,Bagus,Kondisi baik
+Baik,Agak kotor,0.3,Sedikit,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.1,Sedikit,Putus,Kondisi rusak
+Baik,Sangat kotor,0.3,Banyak,Bagus,Kondisi baik
+Baik,Bersih,0.2,Banyak,Bagus,Kondisi baik
+Baik,Sangat kotor,0.3,Sedang,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.2,Sedikit,Bagus,Kondisi rusak
+Baik,Bersih,0.3,Banyak,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.1,Sedikit,Putus,Kondisi rusak
+Baik,Agak kotor,0.3,Banyak,Bagus,Kondisi baik
+Bocor,Sangat kotor,0.1,Sedikit,Bagus,Kondisi rusak
+Baik,Sangat kotor,0.3,Banyak,Bagus,Kondisi baik

@@ -1,21 +1,51 @@
-﻿Voltase,Arus,Umur,Switch,Arang,Lahar,Dinamo,Hasil
-12,3,<1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi baik
-12,3,<1tahun,Bagus,Tebal,Bagus,Rusak,Kondisi rusak
-12,3,<1tahun,Bagus,Tebal,Meleleh,Bagus,Kondisi rusak
-12,3,<1tahun,Bagus,Tipis,Bagus,Bagus,Kondisi rusak
-12,3,<1tahun,Rusak,Tebal,Bagus,Bagus,Kondisi rusak
-12,3,>1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-12,<3,<1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-<12,3,<1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-12,3,>1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-12,3,<1tahun,Rusak,Tipis,Bagus,Bagus,Kondisi rusak
-<12,<3,<1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-12,3,>1tahun,Bagus,Tebal,Bagus,Bagus,Kondisi baik
-12,3,>2tahun,Bagus,Tebal,Bagus,Bagus,Kondisi baik
-<12,3,>2tahun,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
-12,3,<1tahun,Bagus,Sedang,Bagus,Bagus,Kondisi baik
-12,3,<1tahun,Bagus,Sedang,Belum meleleh,Bagus,Kondisi baik
-12,3,<1tahun,Bagus,Sedang,Belum meleleh,Bagus,Kondisi baik
-12,3,<1tahun,Rusak,Sedang,Bagus,Bagus,Kondisi rusak
-12,3,>1tahun,Bagus,Sedang,Bagus,Bagus,Kondisi baik
-<12,3,>1tahun,Bagus,Sedang,Belum meleleh,Bagus,Kondisi rusak
+﻿Voltase Accu,Arus Accu,Umur Accu(Bulan),Switch Starter,Arang Starter,Lahar Dinamo,Dinamo,Hasil
+12,3,12,Bagus,Tebal,Bagus,Bagus,Kondisi baik
+12,3,12,Bagus,Tebal,Bagus,Rusak,Kondisi rusak
+12,3,6,Bagus,Tebal,Meleleh,Bagus,Kondisi rusak
+12,2,6,Bagus,Tipis,Bagus,Rusak,Kondisi rusak
+12,3,18,Rusak,Tebal,Bagus,Rusak,Kondisi rusak
+11,3,13,Bagus,Tebal,Bagus,Bagus,Kondisi baik
+12,3,12,Bagus,Tebal,Bagus,Bagus,Kondisi baik
+12,1,18,Bagus,Tebal,Bagus,Rusak,Kondisi rusak
+10,3,12,Bagus,Tebal,Bagus,Rusak,Kondisi rusak
+12,3,9,Rusak,Tipis,Bagus,Rusak,Kondisi rusak
+12,2,7,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
+12,3,8,Bagus,Tebal,Bagus,Bagus,Kondisi baik
+12,3,6,Bagus,Tebal,Bagus,Bagus,Kondisi baik
+11,3,4,Bagus,Tebal,Bagus,Bagus,Kondisi rusak
+9,3,2,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,1,Bagus,Sedang,Belum meleleh,Bagus,Kondisi baik
+12,2,7,Bagus,Sedang,Belum meleleh,Bagus,Kondisi baik
+12,1,5,Rusak,Sedang,Bagus,Bagus,Kondisi rusak
+12,3,3,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+10,3,2,Bagus,Sedang,Belum meleleh,Bagus,Kondisi rusak
+12,1,2,Bagus,Sedang,Bagus,Rusak,Kondisi rusak
+12,3,16,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,14,Bagus,Tebal,Belum meleleh,Bagus,Kondisi baik
+12,3,11,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,10,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+11,3,6,Bagus,Sedang,Meleleh,Rusak,Kondisi rusak
+12,3,7,Bagus,Tebal,Belum meleleh,Bagus,Kondisi baik
+12,3,15,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,2,2,Bagus,Tebal,Belum meleleh,Bagus,Kondisi baik
+12,1,19,Rusak,Tipis,Meleleh,Bagus,Kondisi rusak
+12,3,18,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi baik
+12,3,18,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,1,12,Rusak,Tipis,Meleleh,Rusak,Kondisi rusak
+12,3,10,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi baik
+12,2,8,Rusak,Tipis,Bagus,Rusak,Kondisi rusak
+12,3,10,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,9,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi baik
+8,3,19,Bagus,Sedang,Meleleh,Bagus,Kondisi rusak
+12,1,26,Rusak,Tipis,Meleleh,Rusak,Kondisi rusak
+9,3,25,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi rusak
+10,3,18,Bagus,Tipis,Meleleh,Rusak,Kondisi rusak
+12,3,14,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,12,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi baik
+12,2,6,Rusak,Tipis,Meleleh,Rusak,Kondisi rusak
+12,3,12,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,3,12,Bagus,Sedang,Belum meleleh ,Bagus,Kondisi baik
+11,3,21,Bagus,Tebal,Meleleh,Bagus,Kondisi rusak
+12,3,12,Bagus,Sedang,Bagus,Bagus,Kondisi baik
+12,1,21,Rusak,Tipis,Belum meleleh ,Rusak,Kondisi rusak
+12,3,6,Bagus,Sedang,Bagus,Bagus,Kondisi baik
